@@ -1,0 +1,14 @@
+.navbar{
+    background: #d84f57 !important;
+    color: white!important;
+}
+.jumbotron{
+    background: url('./Hero-banner-19th-updated.png');
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+    border-radius: 0;
+}
+.jumbotron.justify-content-center-text-center{
+   width: 60%;
+}
